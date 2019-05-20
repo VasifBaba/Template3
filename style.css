@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 650px;
+    margin: -204px 0 0 0;
+}
+.orta{
+    width: 950px;
+    height: 630px;
+    margin: 50px auto;
+    padding: 200px 0 0 0;
+}
+.word{
+    width: 100%;
+    height: 100px;
+}
+.super{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    color: black;
+    font-weight: 500;
+}
+.one{
+    width: 300px;
+    height: 50%;
+    margin: 0 15px 0 0;
+    float: left;
+    background-color: #fff;
+}
+.onein{
+    font-size: 25px;
+    color: blue;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.two{
+    width: 300px;
+    height: 50%;
+    margin: 0 15px 0 7px;
+    float: left;
+}
+.three{
+    width: 300px;
+    height: 50%;
+    margin: 0 0 0 10px;
+    float: left;
+}
+.grey{
+    color: grey;
+}
